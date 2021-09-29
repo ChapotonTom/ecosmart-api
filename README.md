@@ -24,7 +24,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This project is a new version of the Ecosmart project's API. It is being redone in NestJS (formerly Ruby On Rails).
+Is it fresh new so updates will come over time, incoming with the mobile application repository.
 
 ## Installation
 
